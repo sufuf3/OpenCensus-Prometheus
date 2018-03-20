@@ -26,4 +26,5 @@ $ docker-compose up
 Please access http://localhost:9090/targets & http://localhost:9090/metrics
 
 ## Ref
-https://medium.com/google-cloud/opencensus-and-prometheus-66812a7503f
+- https://medium.com/google-cloud/opencensus-and-prometheus-66812a7503f
+- https://medium.com/@DazWilkin/return-to-opencensus-42623f1b55b8
